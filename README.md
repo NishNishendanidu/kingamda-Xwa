@@ -74,7 +74,8 @@
 ## QR CODE
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@NishenDanidu1/king-AMDA-X#package.json)
-## Deploy ⚡⚡king AMDA-X⚡⚡
+## Deploy [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F773F2&height=40&lines=DEPLOY+KINGAMDA-X+)](https://git.io/typing-svg)
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/NishNishendanidu/botwhatsapp.git)
 
 

@@ -76,7 +76,21 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@NishenDanidu1/king-AMDA-X#package.json)
 ## Deploy ⚡⚡king AMDA-X⚡⚡
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/NishNishendanidu/botwhatsapp.git)
+
+
 <a href="https://ibb.co/t8W6NtJ"><img src="https://i.ibb.co/hDtNnjm/progress-bar.gif" alt="progress-bar" border="0"></a>
+
+
+
+
+><img src="https://readme-typing-svg.herokuapp.com/?font=Courier&color=001874&width=610&height=60&lines=Welcome+To+kingamda-X-Bot,+%F0%9F%91%8B%F0%9F%A4%A9;%F0%9F%AA%80+kingamda-XBot+is+a+Helper+WhatsApp+Bot+Written;By+@NISHEN+with+SHEN_BRO.+RaOne;has+a+lot+of+Features/Commans+Including+Logo;Maker+%26+OWNER+NISHEN+SHENbro.;Tnx+For+Visiting+KINGAMDA-XBOT+%F0%9F%A4%B4%F0%9F%92%97"
+
+
+
+
+
+
+
 ### [Note : This repo will never update or maintain by nishen ]
  
 

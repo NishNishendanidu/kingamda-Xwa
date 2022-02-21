@@ -66,7 +66,7 @@ https://i.ibb.co/Z6XBp5j/Photo-1859807427.jpg
 
   
 
-    <img src="<a href="https://ibb.co/Km84jZg"><img src="https://i.ibb.co/Km84jZg/VYCjwSM.jpg" alt="VYCjwSM" border="0"></a>">
+   
 
 
 

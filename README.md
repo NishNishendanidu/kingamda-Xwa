@@ -83,7 +83,7 @@
 
 
 
-><img src="https://readme-typing-svg.herokuapp.com/?font=Courier&color=001874&width=610&height=60&lines=Welcome+To+kingamda-X-Bot,+%F0%9F%91%8B%F0%9F%A4%A9;%F0%9F%AA%80+kingamda-XBot+is+a+Helper+WhatsApp+Bot+Written;By+@NISHEN+with+SHEN_BRO.+RaOne;has+a+lot+of+Features/Commans+Including+Logo;Maker+%26+OWNER+NISHEN+SHENbro.;Tnx+For+Visiting+KINGAMDA-XBOT+%F0%9F%A4%B4%F0%9F%92%97"
+><img src="https://readme-typing-svg.herokuapp.com/?font=Courier&color=001874&width=610&height=60&lines=Welcome+To+kingamda-X-Bot,+%F0%9F%91%8B%F0%9F%A4%A9;%F0%9F%AA%80+kingamda-XBot+is+a+Helper+WhatsApp+Bot+Written;By+@NISHEN+with+SHEN_BRO.+RaOne;has+a+lot+of+Features/Commans+Including+Logo;Maker+%26+OWNER+NISHEN+SHENbro.;Tnx+For+Visiting+KINGAMDA-XBOT+%F0%9F%A4%B4%F0%9F%92%97border="0"></a>
 
 
 

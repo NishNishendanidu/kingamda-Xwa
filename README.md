@@ -72,7 +72,7 @@
 
 ## QR CODE
 
-[![Run on Repl.it]https://repl.it/badge/github/quiec/whatsasena](https://replit.com/@NishenDanidu1/king-AMDA-X#package.json)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@NishenDanidu1/king-AMDA-X#package.json)
 ## Deploy ⚡⚡king AMDA-X⚡⚡
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/NishNishendanidu/botwhatsapp.git)
 <a href="https://ibb.co/t8W6NtJ"><img src="https://i.ibb.co/hDtNnjm/progress-bar.gif" alt="progress-bar" border="0"></a>

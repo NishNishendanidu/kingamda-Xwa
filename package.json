@@ -1,0 +1,23 @@
+{
+  "name": "кιиg αм∂α-χ",
+  "version": "3.0.2v",
+  "description": "кιиg αм∂α-χ- a Whatsapp userbot helping to improve your Whatsapp experience.",
+  "main": "./кιиg αм∂α-χ",
+  "scripts": {
+    "start": "supervisor -s кιиg αм∂α-χ"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [
+    "whatsapp"
+  ],
+  "author": "nishen",
+  "developer": "nishen",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": ""
+  },
+  "
+}

@@ -48,7 +48,7 @@
 
 
 
-><img src="https://github.com/NishNishendanidu/profile viewers svg" /><br>Profile Viewers</div>
+><img src="https://profile-counter.glitch.me/ninishendanidu/count.svg" /><br>Profile Viewers</div>
 
 
 
@@ -57,16 +57,12 @@
 
 
 
-
+https://i.ibb.co/Z6XBp5j/Photo-1859807427.jpg
 
 
 
 ᴋɪɴɢ ᴀᴍᴅᴀ-x ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ
 
-
-  
-
-   
 
 
 
@@ -76,7 +72,7 @@
 
 ## QR CODE
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@NishenDanidu1/king-AMDA-X#package.json)
+[![Run on Repl.it](https://replit.com/@NishenDanidu1/king-AMDA-X#package.json)
 ## Deploy ⚡⚡king AMDA-X⚡⚡
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/NishNishendanidu/botwhatsapp.git)
 
@@ -105,8 +101,11 @@
   
   
   
- 
+  
+    <img src="<a href="https://ibb.co/Km84jZg"><img src="https://i.ibb.co/Km84jZg/VYCjwSM.jpg" alt="VYCjwSM" border="0"></a>">
 
+  </a>
+</p>
 
 ```
 ⚡⚡king AMDA-X⚡⚡ bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
@@ -120,9 +119,16 @@ HAVE A FUN!
 
 ## king Amda-X⚡⚡-X owner nishen 
 
+<table>
+										<tbody>
+	
 
-										
-											
+											<tr>
+												<td><a sɪɢᴇᴅᴇʀɪᴇɴ"></a></td>
+											</tr>
+										</tbody>
+									</table>
+
 ### License
 This project is protected by the `GNU General Public License v3.0.`
 Do not edit copyright messages!

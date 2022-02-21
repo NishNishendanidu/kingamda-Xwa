@@ -64,6 +64,10 @@ https://i.ibb.co/Z6XBp5j/Photo-1859807427.jpg
 ᴋɪɴɢ ᴀᴍᴅᴀ-x ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ
 
 
+  
+
+    <img src="<a href="https://ibb.co/Km84jZg"><img src="https://i.ibb.co/Km84jZg/VYCjwSM.jpg" alt="VYCjwSM" border="0"></a>">
+
 
 
 ⚡⚡кιиg αм∂α-χ⚡⚡</h1>
@@ -101,11 +105,8 @@ https://i.ibb.co/Z6XBp5j/Photo-1859807427.jpg
   
   
   
-  
-    <img src="<a href="https://ibb.co/Km84jZg"><img src="https://i.ibb.co/Km84jZg/VYCjwSM.jpg" alt="VYCjwSM" border="0"></a>">
+ 
 
-  </a>
-</p>
 
 ```
 ⚡⚡king AMDA-X⚡⚡ bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
@@ -119,16 +120,9 @@ HAVE A FUN!
 
 ## king Amda-X⚡⚡-X owner nishen 
 
-<table>
-										<tbody>
-	
 
-											<tr>
-												<td><a sɪɢᴇᴅᴇʀɪᴇɴ"></a></td>
-											</tr>
-										</tbody>
-									</table>
-
+										
+											
 ### License
 This project is protected by the `GNU General Public License v3.0.`
 Do not edit copyright messages!

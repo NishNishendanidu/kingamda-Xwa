@@ -125,10 +125,9 @@
   
   
   
-    <img src="<a href="https://ibb.co/Km84jZg"><img src="https://i.ibb.co/Km84jZg/VYCjwSM.jpg" alt="VYCjwSM" border="0"></a>">
+    
+ 
 
-  </a>
-</p>
 
 ```
 ⚡⚡king AMDA-X⚡⚡ bot is an UserBot for WhatsApp That allowing you to get done so many tasks.

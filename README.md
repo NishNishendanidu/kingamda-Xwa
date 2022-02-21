@@ -142,15 +142,15 @@ HAVE A FUN!
 
 ## king Amda-X⚡⚡-X owner nishen 
 
-<table>
-										<tbody>
-	
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5200&size=30&multiline=true&width=999&height=90&lines=Kingamda-X+whatsApp+bot;Kingamda-X+owner+nishen+;Kingamda-X+bot+speed+full+bot+whatsApp+)](https://git.io/typing-svg)
+										
+	   
+											
+										
 
-											<tr>
-												<td><a sɪɢᴇᴅᴇʀɪᴇɴ"></a></td>
-											</tr>
-										</tbody>
-									</table>
+
+
+
 
 ### License
 This project is protected by the `GNU General Public License v3.0.`

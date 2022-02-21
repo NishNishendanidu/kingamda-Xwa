@@ -71,7 +71,8 @@
 
 
 
-## QR CODE
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFEE4A&center=true&vCenter=true&height=60&lines=SCAN+THE+QR+CODE;%E0%B6%B8%E0%B7%99%E0%B6%AD%E0%B6%B1%E0%B7%92%E0%B6%B1%E0%B7%8A+QR+%E0%B6%9A%E0%B7%9D%E0%B6%A9%E0%B7%8A+%E0%B6%91%E0%B6%9A+%E0%B7%83%E0%B7%8A%E0%B6%9A%E0%B7%91%E0%B6%B1%E0%B7%8A+%E0%B6%9A%E0%B6%BB%E0%B6%B1%E0%B7%8A%E0%B6%B1)](https://git.io/typing-svg)
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@NishenDanidu1/king-AMDA-X#package.json)
 ## Deploy [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F773F2&height=40&lines=DEPLOY+KINGAMDA-X+)](https://git.io/typing-svg)

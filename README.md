@@ -133,13 +133,7 @@
 
 
 ```
-⚡⚡king AMDA-X⚡⚡ bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
-The user is responsible for all possible consequences of misuse.
-This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
-Additionally, it enables plug-in support for users.
-Install their own plugins to the original software and use as they please.
-Usage is entirely the responsibility of the user. The operating system is not responsible.
-HAVE A FUN!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23001787&vCenter=true&width=500&height=60&lines=%E2%9A%A1%E2%9A%A1king+AMDA-X+%E2%9A%A1%E2%9A%A1bot+is+an+UserBot+for+WhatsApp+That+allowing+you+to+get+done+so+many+tasks.+The+user+is+responsible+for+all+possible+consequences+of+misuse.+This+is+not+a+Open-Source+project.+This+is+just+a+project+that+allow+you+to+get+deploy+a+bot.+Additionally%2C+it+enables+plug-in+support+++;That+allowing;You+to+get;Done+so+many+tasks.;The+user+is+reponsible+for+all;Possible+consequences+;Of+misuse.;This+is+just+a+project+;That+allow+you+to+get+deploy+;a+bot.+Additionally%2C+it+enables+plug-in+support;and+use+as+they+please.+Usage+is+entirely+the+responsibility;of+the+user.+The+operating+system+is+not+responsible.+;HAVE+A+FUN...;TNX+FROM+READ++%F0%9F%93%9A+.......)](https://git.io/typing-svg)
 ```
 
 ## king Amda-X⚡⚡-X owner nishen 

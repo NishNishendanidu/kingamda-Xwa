@@ -48,7 +48,7 @@
 
 
 
-><img src="https://profile-counter.glitch.me/dulensathsara/count.svg" /><br>Profile Viewers</div>
+><img src="https://github.com/NishNishendanidu/" /><br>Profile Viewers</div>
 
 
 
@@ -57,7 +57,7 @@
 
 
 
-https://i.ibb.co/Z6XBp5j/Photo-1859807427.jpg
+
 
 
 

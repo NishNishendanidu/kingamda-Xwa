@@ -4,7 +4,7 @@
 
     "description": "🚀 kingamda-X project is bot for whatsapp, With enjoyable things and fun to use whatsapp 😉 | World first fully customizable bot for WhatsApp.",
 
-    "logo": "https://i.ibb.co/mC4F1T3/Photo-1859807427.jpg",
+    "logo": "<a href="https://imgbb.com/"><img src="https://i.ibb.co/r2tjBBv/KINGAMDA-X-LOGO.png" alt="KINGAMDA-X LOGO" border="0"></a>",
 
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "alpha", "node.js", "fb", "wtzp", "userbot", "insta", "srilanka", "keywords", "team"],
 
@@ -14,7 +14,7 @@
 
     "success_url": "https://github.com/NishNishendanidu/kingamda-Xwa.git",
 
-    "stack": "container",
+    "stack": "heroku20",
 
     "env": {
 

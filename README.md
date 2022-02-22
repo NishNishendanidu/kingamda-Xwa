@@ -17,7 +17,7 @@
 
 
 
-<img src="https://i.ibb.co/mC4F1T3/Photo-1859807427/.jpg" width="350" height="350">
+<img src="https://i.ibb.co/mC4F1T3/Photo-1859807427/.jpg" width="300" height="300">
 
 
 

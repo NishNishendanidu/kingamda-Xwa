@@ -1,9 +1,9 @@
-/* Copyright (C) 2021 Queen Amdi.
+/* Copyright (C) 2021 kingamda-X.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Queen Amdi - Black Amda
+kkingamda-X- nishendanidu 
 */
 
 
@@ -46,7 +46,7 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
 		if (conn.user.jid.startsWith('94')) {
 			await conn.sendMessage(
 				conn.user.jid,
-				'*⚠️ Meka denna epa katawath ' + conn.user.name + '* ⚠️',
+				'*⚠️ Meka denna epa katawath harida denna epa' + conn.user.name + '* ⚠️',
 				MessageType.text
 			);
 		} else {

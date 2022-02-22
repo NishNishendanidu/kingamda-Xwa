@@ -17,7 +17,7 @@
 
 
 
-<img src="https://i.ibb.co/mC4F1T3/Photo-1859807427/ .jpg"width="300"height="300">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/r2tjBBv/KINGAMDA-X-LOGO.png" alt="KINGAMDA-X LOGO" border="0"></a>
 
 
 

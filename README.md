@@ -67,7 +67,7 @@
 
 
 
-⚡⚡кιиg αм∂α-χ⚡⚡</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236EFF31&vCenter=true&width=600&height=90&lines=%F0%9F%8E%84%F0%9D%96%90%F0%9D%96%8E%F0%9D%96%93%F0%9D%96%8C%F0%9D%96%86%F0%9D%96%92%F0%9D%96%89%F0%9D%96%86-%F0%9D%96%83+%F0%9D%96%9C%F0%9D%96%8D%F0%9D%96%86%F0%9D%96%99%F0%9D%96%98%F0%9D%95%AC%F0%9D%96%95%F0%9D%96%95+%F0%9D%96%9A%F0%9D%96%98%F0%9D%96%8A%F0%9D%96%97+%F0%9D%96%87%F0%9D%96%94%F0%9D%96%99;+kingamda-X+whatsApp+user+bot;THANKS+FOR+WATCHING........%E2%9A%A1)](https://git.io/typing-svg)
 
 
 
